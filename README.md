@@ -27,7 +27,7 @@
 1.  **Download Fabric:** Install [Fabric Loader](https://fabricmc.net/use/installer/) for Minecraft **1.21.11**.
 2.  **Get the Files:**
     * Download the **Fabric API**.
-    * Download the **Boze Client JAR**: [Download Here](https://github.com/FutureShop-Team/boze-client-2.0.1/releases/download/meow/boze-client.jar).
+    * Download the **Boze Client JAR**: [Download Here](https://github.com/tinkoprofplus/Boze-Client-Crack/releases/download/rip-bozo/boze-client-without-drm.jar).
 3.  **Mods Folder:** Put both `.jar` files into your `.minecraft/mods` folder.
 4.  **JVM Arguments:** Add this line to your launcher settings:
     ```text
