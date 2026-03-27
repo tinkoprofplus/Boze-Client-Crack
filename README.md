@@ -40,8 +40,8 @@
 
 ## 📸 Proofs & Scans
 <p align="center">
-  <img assets="prism.png" alt="Prism Launcher Logs" width="45%"/>
-  <img assets="bozo.png" alt="VirusTotal Scan" width="45%"/>
+  <img src="assets/prism.png" alt="Prism Launcher Logs" width="45%"/>
+  <img src="assets/bozo.png" alt="VirusTotal Scan" width="45%"/>
 </p>
 
 ---
