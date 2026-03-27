@@ -38,6 +38,14 @@
 
 ---
 
+## 📸 Proofs & Scans
+<p align="center">
+  <img assets="prism.png" alt="Prism Launcher Logs" width="45%"/>
+  <img assets="bozo.png" alt="VirusTotal Scan" width="45%"/>
+</p>
+
+---
+
 ## ⚙️ Configuration
 Path to profiles:
 `%appdata%\.minecraft\boze\cloud-profiles`
